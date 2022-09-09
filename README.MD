@@ -16,5 +16,5 @@ func main(){
 ```
 ## how to get your chat id and token
 
-- chat id: Forward a message to the [bot](https://t.me/userinfobot),it will send you the user id
+- chat id: Forward a message to the [user info bot](https://t.me/userinfobot),it will send you the user id
 - token:  Just talk to [BotFather](https://t.me/BotFather) (described below) and follow a few simple steps.

@@ -1,4 +1,4 @@
-module tgbot
+module github.com/james-zhang-bing/tgbot
 
 go 1.17
 
